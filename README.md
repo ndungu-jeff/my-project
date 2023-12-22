@@ -11,6 +11,7 @@ TECHNOLOGIES USED
 
  On this app , I have used Vite and tailwind to make the frontend easy to create.
  I have also created a new folder where I was able to do routes under api.
+
 To run the application use npm run dev for the this fronten part and rake server for the backend to see it's functionality.
 
 Features
